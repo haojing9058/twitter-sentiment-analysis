@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" data-scribe-reduced-action-queue="true">
+<head>
+
+
+
+
+
+
+
+<meta charset="utf-8">
+
+<noscript><meta http-equiv="refresh" content="0; URL=https://mobile.twitter.com/i/nojs_router?oauth_body_hash=2jmj7l5rSw0yVb%2FvlWAYkK%2FYBwk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_signature=FryILVTEii7tiEogPN2uyhckLsA%3D&amp;path=%2Fsearch&amp;oauth_consumer_key=bZkTx6vSr2Dz4eW3EJonGEwz7&amp;oauth_version=1.0&amp;oauth_token=386670545-BcbMT7Ay7vnWowp1zM88JATrgwvdJpdX3ZLXzONE&amp;q=facebook&amp;oauth_timestamp=1523665631&amp;oauth_nonce=23212037"></noscript>
+<script  nonce="BdoINlZJaK4xxT93WX8quA==">
+!function(){window.initErrorstack||(window.initErrorstack=[]),window.onerror=function(r,i,n,o,t){r.indexOf("Script error.")>-1||window.initErrorstack.push({errorMsg:r,url:i,lineNumber:n,column:o,errorObj:t})}}();
+</script>
+
+
+
+<script id="bouncer_terminate_iframe" nonce="BdoINlZJaK4xxT93WX8quA==">
